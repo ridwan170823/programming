@@ -1,0 +1,16 @@
+4. Proyek favorit melibatkan pembuatan aplikasi web untuk mengelola data dengan menggunakan PHP dan framework Laravel. Langkah-langkahnya melibatkan:
+
+- Analisis kebutuhan: Menilai fitur yang diperlukan, pengguna aplikasi, dan alur kerjanya berdasarkan spesifikasi klien.
+- Desain struktur data: Merancang struktur tabel dan basis data yang sesuai dengan kebutuhan, menggunakan PostgreSQL sebagai sistem manajemen basis data.
+- Implementasi logika bisnis: Menggunakan Python dan Django untuk membuat fungsi-fungsi aplikasi. Memecah aplikasi menjadi modul-model, view, controller, template, dan form. Menerapkan pustaka seperti Django REST Framework, Django Filter, dan Django Crispy Forms.
+- Antarmuka pengguna: Membuat antarmuka yang responsif dan interaktif dengan HTML, CSS, JavaScript, dan Bootstrap. Menggunakan AJAX untuk komunikasi asinkron antara browser dan server.
+- Pengujian dan debugging: Melakukan pengujian menggunakan unittest dan selenium untuk memastikan aplikasi sesuai spesifikasi. Menggunakan PyCharm sebagai IDE untuk debugging.
+- Deployment dan maintenance: Menjalankan aplikasi di server produksi dengan Heroku sebagai platform cloud. Menggunakan GitHub sebagai repositori kode sumber untuk deployment dan pemeliharaan.
+
+5. Untuk menjelaskan konsep MVC pada tim Anda, Anda dapat memulai dengan menjelaskan pengertian dari MVC. MVC adalah singkatan dari Model-View-Controller, sebuah pola desain yang memisahkan komponen-komponen aplikasi menjadi tiga lapisan: model, view, dan controller. 
+
+- Model bertanggung jawab untuk menyimpan dan memanipulasi data.
+- View bertanggung jawab untuk menampilkan data kepada pengguna.
+- Controller bertanggung jawab untuk menghubungkan model dan view serta mengatur alur aplikasi.
+
+Dengan menggunakan MVC, kita dapat membuat aplikasi yang lebih modular, mudah diuji, dan fleksibel.
